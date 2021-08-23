@@ -11,3 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Let's make changes here for science
 
+```{r}
+object <- c(1,2,3)
+```
+
